@@ -1,12 +1,19 @@
 {
-  "name": "proffy",
-  "version": "1.0.0",
-  "main": "index.js",
+  "name": "proffy-platform",
   "scripts": {
-    "dev": "nodemon src/server.js"
+    "start": "nodemon src/server.js"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aronreisx/proffy-platform.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aronreisx/proffy-platform/issues"
+  },
+  "author": "Aron Reis",
+  "email": "aronreis2@gmail.com",
+  "url": "www.fb.com/aronreis",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
     "nunjucks": "^3.2.2",
@@ -14,6 +21,5 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
-  },
-  "description": ""
+  }
 }

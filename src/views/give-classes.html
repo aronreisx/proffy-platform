@@ -4,7 +4,7 @@
     
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="theme-color" content="#8257E">
+    <meta name="theme-color" content="#8257E5">
 
     <title>Proffy | Sua plataforma de estudos online</title>
 
@@ -14,11 +14,11 @@
     <link rel="stylesheet" href="/styles/partials/header.css">
     <link rel="stylesheet" href="/styles/partials/forms.css">
     <link rel="stylesheet" href="/styles/partials/page-give-classes.css">
-
     <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&amp;family=Poppins:wght@400;600&amp;display=swap" rel="stylesheet">
 
-    <script src="/scripts/addField.js" defer></script>
+    <script src="/scripts/addDeleteField.js" defer></script>
 </head>
+
 <body id="page-give-classes">
     <div id="container">
         <header class="page-header">
@@ -34,7 +34,7 @@
             </div>
         </header>
         <main>
-            <form action="" id="create-class">
+            <form action="/success" id="create-class" method="POST">
                 <fieldset>
                     <legend>Seus dados</legend>
 
@@ -73,7 +73,7 @@
                     </div>
                     <div class="input-block">
                         <label for="cost">Custo da sua hora/aula
-                            <small>(R$)</small>
+                            <small>(€)</small>
                         </label>
                         <input name="cost" id="cost" type="number" required>
                     </div>
