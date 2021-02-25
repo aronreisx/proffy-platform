@@ -17,7 +17,7 @@
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-8622f8">
-   <a href="https://github.com/grioos/proffy-discovery/stargazers">
+   <a href="https://github.com/aronreisx/proffy-platform/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/aronreisx/proffy-platform?style=social">
   </a>
 
