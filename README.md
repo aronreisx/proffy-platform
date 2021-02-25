@@ -1,6 +1,6 @@
 <div align="center">
     <img alt="Logo Proffy" src="/.github/logo.svg" />
-    <h3>A project made to connect tutors and students :rocket:</h3>
+    <h3>An project maconnect tutors and students :rocket:</h3de to >
 </div>
 
 <p align="center">
