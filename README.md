@@ -30,7 +30,10 @@
   <a href="#-how-to-execute">💻 How to execute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">📝 License</a>
 </p>
-
+<br>
+<div align="center">
+  <img alt="Proffy" src=".github/proffy_screen.png" width="100%">
+</div>
 <br>
 
 
