@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="Logo Proffy" src="/.github/logo.svg" />
+    <img alt="Logo Proffy" src="https://github.com/aronreisx/projects/blob/master/proffy-platform/logo.svg" />
     <h3>A project to connect tutors and students :rocket:</h3>
 </div>
 
@@ -32,7 +32,7 @@
 </p>
 <br>
 <div align="center">
-  <img alt="Proffy" src=".github/proffy_screen.png" width="100%">
+  <img alt="Proffy" src="https://github.com/aronreisx/projects/blob/master/proffy-platform/screen.png" width="100%">
 </div>
 <br>
 
